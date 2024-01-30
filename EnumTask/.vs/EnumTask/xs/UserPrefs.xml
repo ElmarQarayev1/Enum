@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{8FCF5351-C524-4C39-BA59-9AB6636619FC}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.EnumTask PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="EnumTask/Teacher.cs">
+    <Files>
+      <File FileName="EnumTask/Program.cs" Line="58" Column="10" />
+      <File FileName="EnumTask/Product.cs" Line="17" Column="2" />
+      <File FileName="EnumTask/ProductType.cs" Line="13" Column="1" />
+      <File FileName="EnumTask/ProductList.cs" Line="31" Column="5" />
+      <File FileName="EnumTask/IsExceptionInProduct.cs" Line="10" Column="1" />
+      <File FileName="EnumTask/Student.cs" Line="11" Column="1" />
+      <File FileName="EnumTask/Teacher.cs" Line="15" Column="1" />
+      <File FileName="EnumTask/Engineer.cs" Line="15" Column="1" />
+      <File FileName="EnumTask/Humans.cs" Line="10" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="EnumTask" expanded="True">
+            <Node name="EnumTask">
+              <Node name="Teacher.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

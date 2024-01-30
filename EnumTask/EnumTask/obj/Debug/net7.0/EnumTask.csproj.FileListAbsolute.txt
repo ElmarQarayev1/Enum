@@ -1,0 +1,15 @@
+/Users/elmar/Desktop/CodeAcademy/Homeworks/Enum/EnumTask/EnumTask/bin/Debug/net7.0/EnumTask
+/Users/elmar/Desktop/CodeAcademy/Homeworks/Enum/EnumTask/EnumTask/bin/Debug/net7.0/EnumTask.deps.json
+/Users/elmar/Desktop/CodeAcademy/Homeworks/Enum/EnumTask/EnumTask/bin/Debug/net7.0/EnumTask.runtimeconfig.json
+/Users/elmar/Desktop/CodeAcademy/Homeworks/Enum/EnumTask/EnumTask/bin/Debug/net7.0/EnumTask.dll
+/Users/elmar/Desktop/CodeAcademy/Homeworks/Enum/EnumTask/EnumTask/bin/Debug/net7.0/EnumTask.pdb
+/Users/elmar/Desktop/CodeAcademy/Homeworks/Enum/EnumTask/EnumTask/obj/Debug/net7.0/EnumTask.csproj.AssemblyReference.cache
+/Users/elmar/Desktop/CodeAcademy/Homeworks/Enum/EnumTask/EnumTask/obj/Debug/net7.0/EnumTask.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elmar/Desktop/CodeAcademy/Homeworks/Enum/EnumTask/EnumTask/obj/Debug/net7.0/EnumTask.AssemblyInfoInputs.cache
+/Users/elmar/Desktop/CodeAcademy/Homeworks/Enum/EnumTask/EnumTask/obj/Debug/net7.0/EnumTask.AssemblyInfo.cs
+/Users/elmar/Desktop/CodeAcademy/Homeworks/Enum/EnumTask/EnumTask/obj/Debug/net7.0/EnumTask.csproj.CoreCompileInputs.cache
+/Users/elmar/Desktop/CodeAcademy/Homeworks/Enum/EnumTask/EnumTask/obj/Debug/net7.0/EnumTask.dll
+/Users/elmar/Desktop/CodeAcademy/Homeworks/Enum/EnumTask/EnumTask/obj/Debug/net7.0/refint/EnumTask.dll
+/Users/elmar/Desktop/CodeAcademy/Homeworks/Enum/EnumTask/EnumTask/obj/Debug/net7.0/EnumTask.pdb
+/Users/elmar/Desktop/CodeAcademy/Homeworks/Enum/EnumTask/EnumTask/obj/Debug/net7.0/EnumTask.genruntimeconfig.cache
+/Users/elmar/Desktop/CodeAcademy/Homeworks/Enum/EnumTask/EnumTask/obj/Debug/net7.0/ref/EnumTask.dll
